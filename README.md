@@ -8,7 +8,7 @@
 
 ​	1.安装Python，这里不做教程，自行B站
 
-​	2.安装完成后，打开cmd输入以下命令来安装`requests`库
+​	2.安装完成后，打开cmd输入以下命令来安装requests库
 
 ​	`pip install requests`
 
