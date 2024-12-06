@@ -20,7 +20,7 @@
 
 ​	2.输入账号密码点击登录，接着会看到右边有刷新  选择login?callback那一行，复制请求URL里的链接
 
-​	![step1](C:\Users\18127\Desktop\step1.png)
+​
 
 
 
